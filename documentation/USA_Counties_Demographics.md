@@ -1,10 +1,20 @@
-USA_Counties_Demographics.csv
+`USA_Counties_Demographics.csv`
 
 Updated as of Jan 4, 2022
 
-**Attributes**
+https://hub.arcgis.com/datasets/esri::usa-counties/about
 
-|Name|Type|Action|
+## Notes
+
+USA Counties represents the counties of the United States in the 50 states and the District of Columbia.
+
+USA Counties provides US Census 2020 boundaries for the counties of the United States in the 50 states and the District of Columbia.
+
+Attribute fields include estimated 2020 total population from the Esri Demographics team, 2010 U.S. Census demographic information, and both 2012 and 2017 Census of Agriculture information for the USA counties.
+
+## Attributes
+
+|Name|Type|Description|
 |--|--|--|
 |NAME|Text| |
 |STATE_NAME|Text| |
