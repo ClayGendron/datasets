@@ -1,3 +1,79 @@
+
+
+# Exploritory Data Analysis
+---
+## Multiple Hypothesis Testing
+
+Family-Wise Error Rate
+- Bonferroni Correction
+- Holm-Bonferroni Correction
+
+False Discovery Rate
+- Benjamini-Hochberg Correction
+
+## Dimensionality Reduction
+
+Principal Component Analysis
+- Spectral Decomposition Theorem
+
+Stochastic Neighbor Embedding
+
+# Networks
+---
+## Terminology
+
+Network = Graph (G)
+Nodes = Vertices (V)
+Links = Edges (E)
+*G = (V, E)*
+
+Representing a Network
+- Adjacency List
+- Adjacency Matrix
+
+## Summary Statistics of Networks
+
+- Connected Components
+	- Set of nodes that are reachable from one another.
+- Degree Distribution
+	- Number of edges connected to a node.
+	- Degree plots are often in log scale. Power-Law Degree Distribution.
+- Diameter and Average Path Length
+	- Diameter is the largest distance between any two nodes in the network.
+	- Geodesic Path is the shortest path between two nodes.
+- Homophily or Assortative Mixing
+	- A tendency of people or nodes to associate with others that are similar.
+
+## Centrality Measures of Networks
+
+A measure that capures the importance of a nodes poisition in the network.
+
+- Degree Centrality
+	- Measurement of the connections a single node has.
+	- Does not capture cascading effects
+- Betweenness Centrality
+	- Measurement of all the paths that pass through a node.
+- Closeness Centrality
+	- Measurement of how close one node is to any other node or nodes.
+- Eigenvector Centrality
+	- Measurement of how well connected one node is to the rest of the network.
+	- *Builds the foundation for Google's PageRank algorithm.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Data Sets
 
 This is a public repository to store the collection of data sets I use in my work.
