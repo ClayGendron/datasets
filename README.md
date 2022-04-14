@@ -25,6 +25,4 @@ You are welcome to download and use data however you'd like. If you'd prefer for
 
 USA_Counties_Demographics.csv - March 2022 - https://hub.arcgis.com/datasets/esri::usa-counties/about
 
-USA_Counties_Geographic_Dimentions.geojson - April 2022 - https://www2.census.gov/geo/tiger/GENZ2017/shp/
-
 USA_Counties_Presidential_Elections_2000_2020 - March 2022 - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
