@@ -1,1 +1,5 @@
-
+.DS_Store
+documentation/.DS_Store
+election-datasets/.DS_Store
+geodemographic-datasets/.DS_Store
+geospatial-datasets/.DS_Store
