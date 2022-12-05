@@ -1,0 +1,52 @@
+State,Abbreviation,FIPS,Region,Division,Population
+Alabama,AL,1,South,East South Central,5024279
+Alaska,AK,2,West,Pacific,733391
+Arizona,AZ,4,West,Mountain,7151502
+Arkansas,AR,5,South,West South Central,3011524
+California,CA,6,West,Pacific,39538223
+Colorado,CO,8,West,Mountain,5773714
+Connecticut,CT,9,North East,New England,3605944
+DC,DE,10,South,South Atlantic,689545
+Delaware,DC,11,South,South Atlantic,989948
+Florida,FL,12,South,South Atlantic,21538187
+Georgia,GA,13,South,South Atlantic,10711908
+Hawaii,HI,15,West,Pacific,1455271
+Idaho,ID,16,West,Mountain,1839106
+Illinois,IL,17,Midwest,East North Central,12801989
+Indiana,IN,18,Midwest,East North Central,6785528
+Iowa,IA,19,Midwest,West North Central,3271616
+Kansas,KS,20,Midwest,West North Central,2937880
+Kentucky,KY,21,South,East South Central,4505836
+Louisiana,LA,22,South,West South Central,4657757
+Maine,ME,23,North East,New England,1362359
+Maryland,MD,24,South,South Atlantic,6177224
+Massachusetts,MA,25,North East,New England,7029917
+Michigan,MI,26,Midwest,East North Central,10077331
+Minnesota,MN,27,Midwest,West North Central,5706494
+Mississippi,MS,28,South,East South Central,2961279
+Missouri,MO,29,Midwest,West North Central,6154913
+Montana,MT,30,West,Mountain,1084225
+Nebraska,NE,31,Midwest,West North Central,1961504
+Nevada,NV,32,West,Mountain,3104614
+New Hampshire,NH,33,North East,New England,1377529
+New Jersey,NJ,34,North East,Middle Atlantic,9288994
+New Mexico,NM,35,West,Mountain,2117522
+New York,NY,36,North East,Middle Atlantic,20201249
+North Carolina,NC,37,South,South Atlantic,10439388
+North Dakota,ND,38,Midwest,West North Central,779094
+Ohio,OH,39,Midwest,East North Central,11799448
+Oklahoma,OK,40,South,West South Central,3959353
+Oregon,OR,41,West,Pacific,4237256
+Pennsylvania,PA,42,North East,Middle Atlantic,13002700
+Rhode Island,RI,44,North East,New England,1097379
+South Carolina,SC,45,South,South Atlantic,5118425
+South Dakota,SD,46,Midwest,West North Central,886667
+Tennessee,TN,47,South,East South Central,6910840
+Texas,TX,48,South,West South Central,29145505
+Utah,UT,49,West,Mountain,3205958
+Vermont,VT,50,North East,New England,643077
+Virginia,VA,51,South,South Atlantic,8631393
+Washington,WA,53,West,Pacific,7705281
+West Virginia,WV,54,South,South Atlantic,1793716
+Wisconsin,WI,55,Midwest,East North Central,5893718
+Wyoming,WY,56,West,Mountain,576851
